@@ -335,7 +335,7 @@ hr {
 }
 
 .intro .slogan h1 {
-	color: #8b1c31;
+	color: #fff;
 	text-shadow: none;
 	font-size: 60px;
 	line-height: 60px;
@@ -347,7 +347,7 @@ hr {
 	border-width: 0px;
 	border-color: #000;
 	border-style: none;
-	text-shadow: -1px 0 1px #fff;
+	text-shadow: -1px 0 1px #8b1c31;
 }
 
 .intro .slogan h4 {
@@ -1010,6 +1010,7 @@ Parallax
 	display:none;
 }
 }
+
 
 
 
